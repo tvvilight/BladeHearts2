@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tvvilight/BladeHearts2/blob/main/bladehearts-logo.png" width="300"/>
+</p>
+
 # ❤️ BladeHearts Plugin (BETA) ❤️
 
 Welcome to **BladeHearts**, a powerful and customizable Minecraft plugin that lets you grant players extra permanent hearts using enchanted heart items! This is the **BETA snapshot release**, and it's just the beginning! 🚀
