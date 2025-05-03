@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tvvilight/BladeHearts2/blob/main/bladehearts-logo.png" width="300"/>
+  <img src="[https://github.com/tvvilight/BladeHearts2/blob/main/bladehearts-logo.png](https://github.com/tvvilight/BladeHearts2/blob/master/bladehearts-logo.png)" width="300"/>
 </p>
 
 # ❤️ BladeHearts Plugin (BETA) ❤️
