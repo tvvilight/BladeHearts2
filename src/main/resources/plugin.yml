@@ -1,0 +1,5 @@
+name: BladeHearts2
+version: '1.0-SNAPSHOT'
+main: tvvilight.wolnefury.bladeHearts2.BladeHearts2
+api-version: '1.21'
+authors: [ wolnefury ]
