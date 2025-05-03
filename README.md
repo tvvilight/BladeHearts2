@@ -24,6 +24,7 @@ Welcome to **BladeHearts**, a powerful and customizable Minecraft plugin that le
 
 ### Example:
 /bh give wolnefury standard 3
+
 This will give **3 enchanted red heart items** to player `wolnefury`.
 
 ## 🧪 Installation
