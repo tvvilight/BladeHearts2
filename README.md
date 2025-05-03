@@ -12,7 +12,7 @@ Welcome to **BladeHearts**, a powerful and customizable Minecraft plugin that le
 
 ## 🛠️ Command Usage
 
-/bh give <player> <type> <amount>
+`/bh give <player> <type> <amount>`
 
 - **player** – The target player
 - **type** – The heart type (currently only `standard`)
